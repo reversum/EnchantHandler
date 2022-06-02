@@ -1,0 +1,8 @@
+name: Enchantments
+version: 1.0
+author: Yannik
+main: de.yannik.main.Main
+api-version: 1.14
+commands:
+    openEnchants:
+     description: Öffnet einem Admin jedes Enchantment
